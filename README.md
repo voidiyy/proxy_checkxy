@@ -52,6 +52,12 @@ go build -o proxy_checker .
   
 ```
 
+![image](https://github.com/user-attachments/assets/fa49ca09-4835-4dc4-a214-44b6b85c8579)
+
+
+![image](https://github.com/user-attachments/assets/6e80f509-b4c9-4a85-a814-b494800aed86)
+
+
 
 
 
