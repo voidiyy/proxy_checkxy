@@ -34,7 +34,7 @@ ProxyChecker is a simple and efficient command-line tool written in Go for valid
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ProxyChecker.git
+git clone https://github.com/voidiyy/proxy_checkxy.git
 cd ProxyChecker
 
 go build -o proxy_checker .
@@ -52,9 +52,6 @@ go build -o proxy_checker .
   
 ```
 
-## Hey!
-
-Its just learning project, but you can commit changes to make it more advanced
 
 
 
